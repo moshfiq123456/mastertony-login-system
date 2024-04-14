@@ -16,7 +16,7 @@ dbConnect();
 app.use(express.json());
 
 // Use CORS middleware
-app.use(cors());
+app.use(cors("*"));
 
 app.use("/api", authRoutes);
 app.use("/api/refreshToken", refreshTokenRoutes);

@@ -1,0 +1,5 @@
+{"level":"info","message":"User logged in successfully:"}
+{"level":"error","message":"Incorrect password for user:"}
+{"level":"error","message":"User not found:"}
+{"email":"admin@gmail.co","level":"error","message":"User not found","timestamp":"2024-03-17T07:17:46.958Z"}
+{"email":"admin@gmail.com","level":"error","message":"Incorrect password","timestamp":"2024-03-17T07:18:10.237Z"}
